@@ -1,5 +1,5 @@
 # MEAL Systems & Data Analytics Portfolio  
-### Charles [Charles Daniel Apollo]
+### Charles Daniel Apollo
 
 Monitoring, Evaluation, Accountability & Learning (MEAL) Specialist and Data Analytics professional with 10+ years of experience supporting humanitarian and development programmes across East and Central Africa.
 
