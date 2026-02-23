@@ -131,7 +131,7 @@ I specialize in transforming MEAL from a reporting function into a decision-maki
 
 ## 📫 Contact
 
-Charles Daniel Apollo 
-Email: charlesdanieldoka@gmail.com
-Phone: +211929233552  
-LinkedIn:https://www.linkedin.com/in/charles-daniel-apollo-1551b2b3/
+### Name: Charles Daniel Apollo 
+### Email: charlesdanieldoka@gmail.com
+### Phone: +211929233552  
+### LinkedIn:https://www.linkedin.com/in/charles-daniel-apollo-1551b2b3/
